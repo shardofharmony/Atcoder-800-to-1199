@@ -119,3 +119,8 @@ bool fn(string s)
   return i == s.length();
 }
 
+/* Time used today : 1 hr
+Required time to solve a ABC, C level question : 10-15 minutes at max 20
+
+Why am I so dumb
+*/
