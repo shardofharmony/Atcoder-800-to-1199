@@ -82,6 +82,9 @@ bool fn(string s)
       {
         if (b == "dreamer")
         {
+          if (i + arr[1].length() == s.length())
+            return true;
+
           if (s[i + arr[1].length()] == 'a')
             i = i + arr[0].length();
           else if (s[i + arr[1].length()] == 'e')
