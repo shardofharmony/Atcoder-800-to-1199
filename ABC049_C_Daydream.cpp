@@ -68,6 +68,7 @@ if current character is e then check for 'erase' or 'eraser'
 //Second attempt solution : 11 ACs 9 WAs
 
 
+
 string arr[4] = {"dream", "dreamer", "erase", "eraser"};
 bool fn(string s)
 {
@@ -124,4 +125,12 @@ Required time to solve a ABC, C level question : 10-15 minutes at max 20
 
 Why am I so dumb?
 I cannot even solve such easy problems.
+*/
+
+
+/*
+
+Silly mistake : only considered dreamer ending with 'a' in "dreameraser" or 'e' in "dreamereraser" but dreamer can
+also end with 'd', "dreamerdream"
+
 */
