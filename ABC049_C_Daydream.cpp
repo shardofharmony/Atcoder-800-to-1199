@@ -122,5 +122,6 @@ bool fn(string s)
 /* Time used today : 1 hr
 Required time to solve a ABC, C level question : 10-15 minutes at max 20
 
-Why am I so dumb
+Why am I so dumb?
+I cannot even solve such easy problems.
 */
